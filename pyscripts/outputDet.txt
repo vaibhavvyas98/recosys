@@ -1,0 +1,3 @@
+      movie_id                   title          genres
+1810      2268  Few Good Men, A (1992)     Crime|Drama
+896       1101          Top Gun (1986)  Action|Romance

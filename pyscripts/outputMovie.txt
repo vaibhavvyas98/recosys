@@ -1,0 +1,11 @@
+1205                              Grand Day Out, A (1992)
+1382               Beavis and Butt-head Do America (1996)
+2631          South Park: Bigger, Longer and Uncut (1999)
+3360                             Creature Comforts (1990)
+735                                 Close Shave, A (1995)
+1135                                         Faust (1994)
+711     Wallace & Gromit: The Best of Aardman Animatio...
+2120                    I Married A Strange Person (1997)
+0                                        Toy Story (1995)
+1050               Aladdin and the King of Thieves (1996)
+Name: title, dtype: object
